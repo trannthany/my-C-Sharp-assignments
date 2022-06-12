@@ -1,0 +1,4 @@
+C:\Users\User\Documents\C#\QuezLib\bin\Debug\QuezLib.dll
+C:\Users\User\Documents\C#\QuezLib\bin\Debug\QuezLib.pdb
+C:\Users\User\Documents\C#\QuezLib\obj\Debug\QuezLib.dll
+C:\Users\User\Documents\C#\QuezLib\obj\Debug\QuezLib.pdb

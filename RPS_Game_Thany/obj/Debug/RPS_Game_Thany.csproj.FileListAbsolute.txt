@@ -1,0 +1,8 @@
+C:\Users\User\Documents\C#\RPS_Game_Thany\bin\Debug\RPS_Game_Thany.exe.config
+C:\Users\User\Documents\C#\RPS_Game_Thany\bin\Debug\RPS_Game_Thany.exe
+C:\Users\User\Documents\C#\RPS_Game_Thany\bin\Debug\RPS_Game_Thany.pdb
+C:\Users\User\Documents\C#\RPS_Game_Thany\bin\Debug\RockPaperScissorsLibrary.dll
+C:\Users\User\Documents\C#\RPS_Game_Thany\obj\Debug\RPS_Game_Thany.csprojAssemblyReference.cache
+C:\Users\User\Documents\C#\RPS_Game_Thany\obj\Debug\RPS_Game_Thany.csproj.CopyComplete
+C:\Users\User\Documents\C#\RPS_Game_Thany\obj\Debug\RPS_Game_Thany.exe
+C:\Users\User\Documents\C#\RPS_Game_Thany\obj\Debug\RPS_Game_Thany.pdb
