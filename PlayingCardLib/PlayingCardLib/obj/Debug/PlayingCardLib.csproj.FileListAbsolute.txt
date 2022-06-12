@@ -1,0 +1,10 @@
+C:\Users\kappa\Documents\ThanyC_Sharp2020\PlayingCardLib\PlayingCardLib\bin\Debug\PlayingCardLib.dll
+C:\Users\kappa\Documents\ThanyC_Sharp2020\PlayingCardLib\PlayingCardLib\bin\Debug\PlayingCardLib.pdb
+C:\Users\kappa\Documents\ThanyC_Sharp2020\PlayingCardLib\PlayingCardLib\obj\Debug\PlayingCardLib.dll
+C:\Users\kappa\Documents\ThanyC_Sharp2020\PlayingCardLib\PlayingCardLib\obj\Debug\PlayingCardLib.pdb
+C:\Users\kappa\Documents\ThanyC_Sharp2020\PlayingCardLib\PlayingCardLib\obj\Debug\PlayingCardLib.csprojAssemblyReference.cache
+C:\Users\User\Documents\C#\ThanyC_Sharp2020 - Copy\PlayingCardLib\PlayingCardLib\obj\Debug\PlayingCardLib.dll
+C:\Users\User\Documents\C#\ThanyC_Sharp2020 - Copy\PlayingCardLib\PlayingCardLib\obj\Debug\PlayingCardLib.pdb
+C:\Users\User\Documents\C#\ThanyC_Sharp2020 - Copy\PlayingCardLib\PlayingCardLib\bin\Debug\PlayingCardLib.dll
+C:\Users\User\Documents\C#\ThanyC_Sharp2020 - Copy\PlayingCardLib\PlayingCardLib\bin\Debug\PlayingCardLib.pdb
+C:\Users\User\Documents\C#\ThanyC_Sharp2020 - Copy\PlayingCardLib\PlayingCardLib\obj\Debug\PlayingCardLib.csprojAssemblyReference.cache

@@ -1,0 +1,12 @@
+C:\Users\kappa\Documents\ThanyC_Sharp2020\PlayingCards_GUI\CardGameGUI\CardGameGUI\bin\Debug\CardGameGUI.exe.config
+C:\Users\kappa\Documents\ThanyC_Sharp2020\PlayingCards_GUI\CardGameGUI\CardGameGUI\bin\Debug\CardGameGUI.exe
+C:\Users\kappa\Documents\ThanyC_Sharp2020\PlayingCards_GUI\CardGameGUI\CardGameGUI\bin\Debug\CardGameGUI.pdb
+C:\Users\kappa\Documents\ThanyC_Sharp2020\PlayingCards_GUI\CardGameGUI\CardGameGUI\bin\Debug\PlayingCardLib.pdb
+C:\Users\kappa\Documents\ThanyC_Sharp2020\PlayingCards_GUI\CardGameGUI\CardGameGUI\obj\Debug\CardGameGUI.csprojAssemblyReference.cache
+C:\Users\kappa\Documents\ThanyC_Sharp2020\PlayingCards_GUI\CardGameGUI\CardGameGUI\obj\Debug\CardGameGUI.CardGame.resources
+C:\Users\kappa\Documents\ThanyC_Sharp2020\PlayingCards_GUI\CardGameGUI\CardGameGUI\obj\Debug\CardGameGUI.Properties.Resources.resources
+C:\Users\kappa\Documents\ThanyC_Sharp2020\PlayingCards_GUI\CardGameGUI\CardGameGUI\obj\Debug\CardGameGUI.csproj.GenerateResource.cache
+C:\Users\kappa\Documents\ThanyC_Sharp2020\PlayingCards_GUI\CardGameGUI\CardGameGUI\obj\Debug\CardGameGUI.csproj.CopyComplete
+C:\Users\kappa\Documents\ThanyC_Sharp2020\PlayingCards_GUI\CardGameGUI\CardGameGUI\obj\Debug\CardGameGUI.exe
+C:\Users\kappa\Documents\ThanyC_Sharp2020\PlayingCards_GUI\CardGameGUI\CardGameGUI\obj\Debug\CardGameGUI.pdb
+C:\Users\kappa\Documents\ThanyC_Sharp2020\PlayingCards_GUI\CardGameGUI\CardGameGUI\bin\Debug\PlayingCardLib.dll
